@@ -38,4 +38,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="troika-user 11 RSBS31.Q1-48-36-23 ef3cf release-keys" \
     BuildFingerprint=motorola/troika_retail/troika_sprout:11/RSBS31.Q1-48-36-23/ef3cf:user/release-keys \
-    DeviceName=troika
+    DeviceProduct=troika_retail
